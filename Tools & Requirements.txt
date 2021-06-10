@@ -1,0 +1,10 @@
+ Links:
+ 
+ Python: https://www.python.org/downloads/
+ Git: https://git-scm.com/downloads
+ Docker: https://docs.docker.com/get-docker/
+ Variant: https://www.vagrantup.com/downloads
+ VirtualBox: https://www.virtualbox.org/wiki/Downloads
+
+ 
+
